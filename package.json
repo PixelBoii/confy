@@ -1,5 +1,5 @@
 {
-  "name": "confy",
+  "name": "conify",
   "version": "1.0.0",
   "description": "Manage multiple config files with ease",
   "main": "index.js",
